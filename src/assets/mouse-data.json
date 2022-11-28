@@ -1,0 +1,14 @@
+[
+    { "name": "Jerry", "age": 3, "type": "cartoon character", "favorite_activity": "playing with cats", "cheese": 20, "image": "images/jerry.png" },
+    { "name": "Squeaky", "age": 1, "type": "chipmunk", "favorite_activity": "sleeping", "cheese": 30, "image": "images/squeaky.jpeg"  },
+    { "name": "Mango", "age": 2, "type": "guinea pig", "favorite_activity": "eating", "cheese": 40, "image": "images/mango.jpg" },
+    { "name": "Cici", "age": 1, "type": "sugar glider", "favorite_activity": "eating", "cheese": 30, "image": "images/cici.png" },
+    { "name": "Mickey", "age": 1, "type": "cartoon character", "favorite_activity": "sleeping", "cheese": 15, "image": "images/mickey.jpg" },
+    { "name": "Little Cheese", "age": 3, "type": "hamster", "favorite_activity": "playing with cats", "cheese": 10, "image": "images/lc.jpg" },
+    { "name": "Yellow", "age": 1, "type": "sugar glider", "favorite_activity": "sleeping", "cheese": 20, "image": "images/yellow.jpg" },
+    { "name": "Tiny", "age": 2, "type": "hamster", "favorite_activity": "playing with cats", "cheese": 20, "image": "images/tiny.jpg" },
+    { "name": "Daisy", "age": 2, "type": "guinea pig", "favorite_activity": "sleeping", "cheese": 20, "image": "images/daisy.jpg" },
+    { "name": "Coco", "age": 1, "type": "hamster", "favorite_activity": "playing with cats", "cheese": 20, "image": "images/coco.jpg" },
+    { "name": "Minnie", "age": 2, "type": "cartoon character", "favorite_activity": "eating", "cheese": 60, "image": "images/minnie.png" },
+    { "name": "Remy", "age": 3, "type": "cartoon character", "favorite_activity": "sleeping", "cheese": 15, "image": "images/remy.jpg" }
+]
