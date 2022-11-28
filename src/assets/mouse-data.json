@@ -10,5 +10,5 @@
     { "name": "Daisy", "age": 2, "type": "guinea pig", "favorite_activity": "sleeping", "cheese": 20, "image": "images/daisy.jpg" },
     { "name": "Coco", "age": 1, "type": "hamster", "favorite_activity": "playing with cats", "cheese": 20, "image": "images/coco.jpg" },
     { "name": "Minnie", "age": 2, "type": "cartoon character", "favorite_activity": "eating", "cheese": 60, "image": "images/minnie.png" },
-    { "name": "Remy", "age": 3, "type": "cartoon character", "favorite_activity": "sleeping", "cheese": 15, "image": "images/remy.jpg" }
+    { "name": "Remy", "age": 3, "type": "cartoon character", "favorite_activity": "sleeping", "cheese": 15, "image": "images/remy.webp" }
 ]
