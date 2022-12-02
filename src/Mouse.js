@@ -36,7 +36,6 @@ export default function Mouse({ item, cart, setCart, cartNames, setCartNames, ch
           <Button onClick={() => handleRemove(item)}> Remove </Button> :
           <Button onClick={() => handleAdd(item)}> Add </Button>
         }
-
       </div>
     </Box>
   )
